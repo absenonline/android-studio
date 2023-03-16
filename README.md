@@ -16,3 +16,8 @@ Android Studio is the official Integrated Development Environment (IDE) for Andr
 - Empty Activity
 
 [<img alt="New Project Android Studio" width="60%" src="https://raw.githubusercontent.com/absenonline/android-studio/main/myfirstas.gif" />](https://raw.githubusercontent.com/absenonline/android-studio/main/myfirstas.gif)
+
+## New Activity
+New > Google > Google maps activity
+
+[<img alt="New Project Android Studio" width="60%" src="https://raw.githubusercontent.com/absenonline/android-studio/main/addmap.gif" />](https://raw.githubusercontent.com/absenonline/android-studio/main/myfirstas.gif)
