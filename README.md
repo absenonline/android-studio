@@ -14,3 +14,5 @@ Android Studio is the official Integrated Development Environment (IDE) for Andr
 ## First Open Android Studio
 - New Project
 - Empty Activity
+
+[<img alt="New Project Android Studio" width="60%" src="https://raw.githubusercontent.com/absenonline/android-studio/main/myfirstas.gif" />](https://raw.githubusercontent.com/absenonline/android-studio/main/myfirstas.gif)
